@@ -1,0 +1,12 @@
+
+m
+java:S11922"WDefine a constant instead of duplicating this literal "redirect:/student/list" 3 times.(­ øÙ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íƒ—2
+k	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ãíèÿÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©ƒˆ­
+b
+java:S1128	"GRemove this unused import 'org.springframework.validation.ObjectError'.(ý£¿®ÿÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'javax.validation.Valid'.(æ¤ñ÷úÿÿÿÿ
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å
